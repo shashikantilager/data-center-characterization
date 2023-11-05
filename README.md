@@ -3,7 +3,10 @@ This project uses jupyter notebook for statistical analysis and also for plottin
 
 ## Data Access
 
-Please download the  the data from here and store it in [`the dataset directory`](./data/datasets/combined). 
+Please download the  the data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10069402.svg)](https://doi.org/10.5281/zenodo.10069402)
+ and store the downloaded files   in directory `/data/datasets/combined`
+ 
+ <!-- [`the dataset directory`](./data/datasets/combined).  -->
 
 
 # Re-(runing) the  scripts
