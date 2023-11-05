@@ -1,5 +1,5 @@
 # Analysis of Data Center Logs
-This repository contains code for the a statistical analysis of the data center logs (described in this [paper](http://hpc.ec.tuwien.ac.at/files/UCC_23_data_center_analysis.pdf)). This project uses jupyter notebook for statistical analysis and also for plotting. 
+This repository contains code for the a statistical analysis of a cloud data center logs (described in this [paper](http://hpc.ec.tuwien.ac.at/files/UCC_23_data_center_analysis.pdf)). This project uses jupyter notebook for statistical analysis and also for plotting. 
 
 ## Data Access
 
