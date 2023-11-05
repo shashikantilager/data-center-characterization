@@ -1,0 +1,10 @@
+myenv-da/
+notes
+.vscode
+.ipynb_checkpoints
+notes
+data/datasets/combined
+data/datasets/individual
+preprocessing.ipynb
+__pycache__
+.DS_Store
