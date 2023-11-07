@@ -20,9 +20,9 @@ pip install notebook
 
 jupyter notebook
 
-pip install -r requirements.txt
 ```
 
+Once the notebook is open on your default browser, open the  `analysis.ipynb` notebook and install required packages (first cell of the notebook) and  start executing the each cell in the sequence.
 
 ## Citation Information
 Shashikant Ilager, Adel N. Toosi, Mayank Raj Jha, Ivona Brandic, Rajkumar Buyya, "A Data-driven Analysis of a Cloud Data Center: Statistical Characterization of Workload, Energy and Temperature", In Proceedings of the 16th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2023), Messina, Italy, December 4-7, 2023. [[pdf]](http://hpc.ec.tuwien.ac.at/files/UCC_23_data_center_analysis.pdf)
